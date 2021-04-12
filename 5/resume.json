@@ -1,0 +1,374 @@
+{
+    "meta": { "theme": "elegant" },
+    "basics": {
+      "name": "Yordanos Mathewos",
+      "label": "Software Developer | Web Development",
+      "picture": "https://jsnelders.com/wp-content/uploads/2019/11/20191026_165247-reduced-size-square.jpg",
+      "email": "yordanos.b.mathewos@gmail.com",
+      "phone": "",
+      "website": "https://yorda.net",
+      "summary": "I'm a web application software developer. \nSolution delivery - design, creation and management - is my thing.\n\nBackground:\n- Full stack web application developer.\n- I've worked across all aspects of the development and delivery process.\n- Previous small business owner (software consultancy).\n\nNow:\n- Specialising in web front-end and JAMstack.\n- Focused on solution delivery, team leadership, and developer coaching.\n- Building a small-scale, privacy-focused social network to take on Facebook.\n\nTech Focus: \n- Modern JavaScript, Typescript, Vue.js, CSS/SCSS.\n- PHP, MongoDB, WordPress, MySQL, Microsoft .NET/C#.\n- Netlify, Miocrosoft Azure (App Services and Storage).\n\nInterests: \n- InfoSec; Password management.\n- Usability (UX).\n- Sustainable software maintenance.\n- Managing modern development tech churn.\n- Development learning and coaching.\n\nIdeal work: \n- Team leadership.\n- Bridging business and development.\n- Product development.\n- Product research/prototyping.\n\nWhat matters at work:\nFlexibility and a friendly team. Quality equipment and work environment.\n\nFind me at https://jsnelders.com/\n\nI have a Victorian Working with Children Card (April 2019)",
+      "location": {
+        "address": "",
+        "postalCode": "",
+        "city": "",
+        "countryCode": "",
+        "region": ""
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "yordanos",
+          "url": "https://www.linkedin.com/in/yordanos”,
+        }{
+          "network": "LinkedIn",
+          "username": "yordanos",
+          "url": "https://www.linkedin.com/in/yordanos”,
+        }
+      ]
+      ]
+    },
+    "interests": [{
+      "name": "Professional",
+      "keywords": [
+        "Usability/UX design",
+        "Information Security (particularly Web Application Security)",
+        "Password management",
+        "Sustainable software maintenance",
+        "Software development leadership",
+        "Software developer coaching and mentoring"
+      ]
+    },
+    {
+      "name": "Personal",
+      "keywords": [
+        "World travel",
+        "Photography"
+      ]
+    }],
+    "work": [
+      {
+        "company": "Freelance Software Professional",
+        "position": "Freelance",
+        "website": "",
+        "startDate": "2019-11-01",
+        "summary": "Not one to shy away from staring down a giant, I'm working on a 'small' side project of building a privacy-focused social network to take on Facebook. The disruption industry needs some disruption.",
+        "highlights": []
+      },
+      {
+        "company": "RMIT University",
+        "position": "Part-time Software Development Project Manager",
+        "website": "https://www.rmit.edu.au/",
+        "startDate": "2019-05-01",
+        "endDate": "2020-01-09",
+        "summary": "",
+        "highlights": [
+          "Reported to 2 project owners (researchers).",
+          "Coordinated with external stakeholders and project managers.",
+          "Responsible managing budget and expenditure tracking, planning, software architecture, status reporting, recruitment, and team management.",
+          "Recruited a 3 person development team.",
+          "Managed 2 x 6-person student teams for 12 weeks to develop sub-components of the project.",
+          "Exited the project before completion and delivery."
+        ]
+      },
+      {
+        "company": "RMIT University",
+        "position": "Tutor",
+        "website": "https://www.rmit.edu.au/",
+        "startDate": "2019-07-01",
+        "endDate": "2019-11-01",
+        "summary": "",
+        "highlights": [
+          "Ran 2 tutorials per week for Database Applications course(approx. 50-60 students).",
+          "The course covered relational databases (Oracle), MobgoDB and developing a web application with PHP.",
+          "Learnt MongoDB for the course.",
+          "Performed assignment and exam marking."
+        ],
+        "endDate": "2019-11-01"
+      },
+      {
+        "company": "RMIT University",
+        "position": "Support Project Coordinator / Student Mentor",
+        "website": "https://www.rmit.edu.au/",
+        "startDate": "2019-03-01",
+        "endDate": "2019-11-01",
+        "summary": "Assistant project coordinator for the Work Integrated Learning (WIL) course.\nWIL is a program of capstone projects by student teams creating solutions for industry sponsors.",
+        "highlights": [
+          "Supervised 6 project teams (~30 students) per semester.",
+          "Provided guidance and coaching toward successful project delivery for each sponsor.",
+          "Guest lectured on the topic \"Getting Started with Git and GitFlow\" with a 45 minute practical demonstration for students."
+        ],
+        "endDate": "2019-11-01"
+      },
+      {
+        "company": "Vylesk",
+        "position": "Small Business Owner / Software Architect",
+        "website": "https://vylesk.com",
+        "startDate": "2012-01-01",
+        "endDate": "2019-11-01",
+        "summary": "Vylesk was a boutique software development consultancy that built web applications and portals for small businesses and educational institutions.\n\nIn 2019 we successfully launched a new Intranet for St Hildas College in Melbourne, designed from scratch with custom workflows and built on top of WordPress. We also developed and managed a custom student tutorial management system for Hildas for 6 years.\n\nVylesk consisted of 2 principal consultants in Melbourne and 2 full-time developers in India.\n\nDue to declining business a shifting in the industry, in November 2019 we chose to wind down the company to reassess and pursue new opportunities.",
+        "highlights": [
+          "Technologies & Tools: WordPress (theme and plug-in development), PHP, MySQL, jQuery, web application development with HTML/CSS/JavaScript/TypeScript/SASS, VueJS, Bootstrap, W3CSS, .NET/ASP.NET, Microsoft Azure"
+        ]
+      },
+      {
+        "company": "Datacom",
+        "position": "Senior Software Developer / Team Lead",
+        "website": "https://www.datacom.com.au/",
+        "startDate": "2016-09-01",
+        "summary": "Datacom is a mid-tear corporate consultancy. I left the permanent full-time position in September 2018 to work for myself.",
+        "highlights": [
+          "Senior Developer (full-stack web/.NET) and Team Lead for automated development environment project with Australian Unity.",
+          "Interim Technical Lead and ongoing Operations Lead for COBOL migration project with Bupa.",
+          "Senior full-stack web/.NET developer on the Organ Match project with Australian Red Cross Blood Service.",
+          "Worked with client business stakeholders and internal software teams to deliver requirements.",
+          "Created technical and process documentation.",
+          "Supported other team leads and assisted junior developers.",
+          "Designed and developed an orchestration tool that manages AWS environment creation and automated the setup/linking of corresponding environments in Octopus Deploy.",
+          "Technologies & Tools: Visual Studio Team Services (VSTS), Visual Studio 2015 & 2017, Angular 1.2 & 5, .NET 4.6, ASP.NET MVC 4.x, NUnit/Moq, AutoMapper, Entity Framework, SQL Server, Amazon Web Services (AWS) EC2 & CloudFormation, Octopus Deploy, TeamCity, Micro Focus Visual COBOL."
+        ],
+        "endDate": "2018-09-01"
+      },
+      {
+        "company": "Belong - Powered by Telstra",
+        "position": "Senior Software Developer (Web front-end)",
+        "website": "https://www.belong.com.au/",
+        "startDate": "2014-11-01",
+        "summary": "Sub-Contract for Object Consulting. Belong was an Australian broadband provider and a division of Telstra.",
+        "highlights": [
+          "Front-end web developer. New feature development, defect resolution, and BAU development.",
+          "A/B test development and management of website optimisation campaigns.",
+          "Team support and mentor to incoming developers.",
+          "Technologies & Tools: Adobe Target, Optimizely, Grunt, Middleman, SASS/CSS, JavaScript, Knockout.js."
+        ],
+        "endDate": "2016-07-01"
+      },
+      {
+        "company": "Object Consulting",
+        "position": "Senior Software Developer",
+        "website": "https://www.objectconsulting.com.au/",
+        "startDate": "2014-09-01",
+        "summary": "Short-contract role. Front-end web developer.",
+        "highlights": [],
+        "endDate": "2014-10-01"
+      },
+      {
+        "company": "PageUp",
+        "position": "Software Developer",
+        "website": "https://www.pageuppeople.com/",
+        "startDate": "2014-08-01",
+        "summary": "Short contract role. Full-stack software developer (.NET/web).",
+        "highlights": [],
+        "endDate": "2014-09-01"
+      },
+      {
+        "company": "Village Roadshow",
+        "position": "Software Developer",
+        "website": "http://villageroadshow.com.au/",
+        "startDate": "2014-05-01",
+        "summary": "Short contract role. Full-stack software developer (.NET/web).",
+        "highlights": [],
+        "endDate": "2014-08-01"
+      },
+      {
+        "company": "Maurice Blackburn Lawyers",
+        "position": "Software Developer",
+        "website": "https://www.mauriceblackburn.com.au/",
+        "startDate": "2013-04-01",
+        "summary": "Short contract role. Full-stack software developer (.NET/web).",
+        "highlights": [],
+        "endDate": "2013-11-01"
+      },
+      {
+        "company": "Transurban",
+        "position": "Data Management Consultant",
+        "website": "https://www.transurban.com/",
+        "startDate": "2010-07-01",
+        "summary": "Sub-contract role for Zenith Solutions (Aust) Pty Ltd. Data migration analyst.",
+        "highlights": [],
+        "endDate": "2011-07-01"
+      },
+      {
+        "company": "eNett International",
+        "position": "Software Developer",
+        "website": "https://www.enett.com/",
+        "startDate": "2010-04-01",
+        "summary": "Contract role. Front-end ASP.NET web developer.",
+        "highlights": [],
+        "endDate": "2010-06-01"
+      },
+      {
+        "company": "City of Melbourne",
+        "position": "Software Developer",
+        "website": "https://www.melbourne.vic.gov.au/Pages/home.aspx",
+        "startDate": "2009-08-01",
+        "summary": "Contract role. Full-stack software developer (.NET/web/Access database applications/SQL Server).",
+        "highlights": [],
+        "endDate": "2010-03-01"
+      },
+      {
+        "company": "Prima Consulting",
+        "position": "Software Developer",
+        "website": "http://www.prc.com.au/",
+        "startDate": "2008-01-01",
+        "summary": "Permanent full-time role. Full-stack software developer (.NET/web/VBA/Access database applications/SQL Server).",
+        "highlights": [],
+        "endDate": "2009-06-01"
+      },
+      {
+        "company": "ParagonIT",
+        "position": "Software Developer / Team Lead",
+        "website": "http://paragonit.com.au/",
+        "startDate": "2002-03-01",
+        "summary": "Permanent full-time role. Full-stack developer (Classic ASP/.NET/web/VBA/Access database applications/SQL Server).",
+        "highlights": [],
+        "endDate": "2007-12-01"
+      }
+    ],
+    "education": [
+      {
+        "institution": "Deakin University",
+        "area": "Computing",
+        "studyType": "Bachelors Degree",
+        "startDate": "1998-12-01",
+        "gpa": "",
+        "courses": [
+          "Bachelor of Computing (Multimedia Technology)"
+        ],
+        "endDate": "2001-01-01"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Project Management (small projects)",
+        "level": "Proficient",
+        "keywords": [
+          "Prject Management",
+          "Scheduling",
+          "Budget Management",
+          "Hiring"
+        ]
+      },
+  {
+        "name": "Teaching & Leadership",
+        "level": "",
+        "keywords": [
+          "University Teaching",
+          "Mentoring"
+        ]
+      },
+      {
+        "name": "Consulting",
+        "level": "",
+        "keywords": [
+          "Requirements Analysis",
+          "Business Process Automation",
+          "Customer Support"
+        ]
+      },
+      {
+        "name": "Web Development",
+        "level": "",
+        "keywords": [
+          "API",
+          "Websites",
+          "Web Applications"
+        ]
+      },
+      {
+        "name": "Programming Languages & Scripting",
+        "level": "",
+        "keywords": [
+          "PHP",
+          "C#",
+          ".NET Framework",
+          "ASP.NET",
+          "JavaScript",
+          "HTML",
+          "Cascading Style Sheets (CSS)",
+          "SASS",
+          "LESS",
+          "JSON",
+          "XML",
+          "Structured Query Language (SQL)"
+        ]
+      },
+      {
+        "name": "Software Frameworks & Systems",
+        "level": "",
+        "keywords": [
+          "WordPress",
+          "VueJS",
+          "jQuery",
+          "Bootstrap",
+          "W3CSS"
+        ]
+      },
+      {
+        "name": "Software Development",
+        "level": "",
+        "keywords": [
+          "Web Applications",
+          "Database Applications",
+          "Solution Architecture",
+          "Software Documentation",
+          "Technical Documentation",
+          "Research",
+          "Web Services",
+          "Software as a Service (SaaS)",
+          "Business Applications",
+          "A/B Testing"
+        ]
+      },
+      {
+        "name": "Databases",
+        "level": "",
+        "keywords": [
+          "SQL Server",
+          "MySQL"
+        ]
+      },
+      {
+        "name": "Software Tools",
+        "level": "",
+        "keywords": [
+          "Git",
+          "VSTS",
+          "JIRA",
+          "Clubhouse",
+          "Trello",
+          "Visual Studio",
+          "Visual Studio Code"
+        ]
+      },
+      {
+        "name": "General Tools",
+        "level": "",
+        "keywords": [
+          "Microsoft Excel",
+          "Microsoft Word"
+        ]
+      },
+      {
+        "name": "Previous Technical Experience",
+        "level": "",
+        "keywords": [
+          "Angular 7",
+          "KnockoutJS",
+          "Visual Basic.NET",
+          "Visual Basic",
+          "VBScript",
+          "Access database applications",
+          "Excel and Word macros (VBA)"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "'Connect': A platform for portals and business process automation",
+        "startDate": "2017-11-01",
+        "description": "'Connect' is a web application layer built on top of WordPress for creating portals/intranets and business process automation. Developed for a a customer and running live since February 2019, every feature is driven by real-world needs. It is designed for extensibility and customisation.  The client since cancelled the project half-way through, but we were successfully running live for 6 months and have since dissected and started re-working the project to be launched as a special service offering in the future.",
+        "url": ""
+      }
+    ]
+  }

@@ -1,0 +1,326 @@
+{
+
+	"basics": {
+		"name": "Yordanos Mathewos",
+		"label": "Web Developer",
+		"picture": "https://pbs.twimg.com/profile_images/1217574284815732737/gOsmEoQL_400x400.jpg",
+		"email": "yordanos.b.mathewos@gmail.com",
+		"phone": "",
+		"website": "https://about.me/yordanos",
+		"summary": "",
+		"location": {
+			"address": "",
+			"postalCode": "",
+			"city": "New York",
+			"countryCode": "US",
+			"region": "New York"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "yordanos_dev",
+				"url": "http://twitter.com/yordanos_dev"
+			},
+			{
+				"network": "",
+				"username": "",
+				"url": ""
+			},
+			{
+				"network": "LinkedIn",
+				"username": "yordanos",
+				"url": "https://www.linkedin.com/in/yordanos"
+			},
+		        {
+				"network": "Github",
+				"username": "yordanos_dev",
+				"url": "https://www.github.com/yordanos_dev"
+			}
+		]
+	},
+	"education": [
+		{
+			"institution": "Queensborough Community College ",
+			"studyType": "#",
+			"startDate": "2015-07-01",
+			"endDate": "2019-05-15",
+			"gpa": "",
+			"courses": [
+				"MDR 501 - The Molecular Basis of Life",
+				"MDR 502 - Cellular Function and Regulation",
+				"MDR 503 - Host Defenses: Pathogens and Pathology",
+				"MDR 504 - Human Anatomy",
+				"MDR 506 - Neuroscience and Behavioral Science",
+				"MDR 507 - The Cardiovascular System",
+				"MDR 518 - Doctoring I",
+				"MDR 519 - Doctoring II",
+				"MDR 610 - The Respiratory System",
+				"MDR 612 - The Renal System"
+			
+			]
+		},
+        {
+			"institution": "Queensborough Community College ",
+			"studyType": "#",
+			"startDate": "2015-07-01",
+			"endDate": "2019-05-15",
+			"gpa": "",
+			"courses": [
+				"MDR 501 - AWS Certified SysOps Administrator Associate Certification",
+				"MDR 502 - AWS Developer Associate Certification + AWS Big Data + Machine Learning Specializations",
+				"MDR 503 - AWS Solutions Architect Preparation and Cloud Security Essentials",
+				"MDR 504 - Human Anatomy",
+				"MDR 506 - Neuroscience and Behavioral Science"
+			
+			]
+		},
+		{
+			"institution": "University of Central Florida",
+			"area": "Phycology",
+			"studyType": "Bachelor of Science", 
+			"startDate": "",
+			"endDate": ""
+			
+		}
+	],
+		"work": [{
+			"company": "University of Florida",
+			"position": "Resident Physician",
+			"website": "http://xray.ufl.edu",
+			"startDate": "2020-07-01",
+			"summary": "Diagnostic Radiology Resident",
+			"highlights": [
+				"Resident member - program evaluation committee"
+			]
+		},
+		{
+			"company": "University of Miami at Holy Cross Hospital",
+			"position": "Intern",
+			"website": "http://gme.med.miami.edu/holycross",
+			"startDate": "2019-07-01",
+			"endDate": "2020-06-30",
+			"summary": "Transitional Year Residency",
+			"highlights": [
+				"Completed a transitional year residency at a program with both an internal medicine and surgical resident. As a transitional resident I successfully functioned as the intern on academic outpatient/inpatient medicine, critical care, general surgery, emergency medicine and cardiology services"
+			]
+		},
+		{
+			"company": "ExamKrackers",
+			"position": "MCAT Instructor",
+			"website": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi_pbLroMztAhUl01kKHQViDvwQFjAAegQIBRAD&url=https%3A%2F%2Fexamkrackers.com%2F&usg=AOvVaw1LwddXFBcNRhUe8RLP2soF",
+			"startDate": "2016-07-01",
+			"endDate": "2017-12-01",
+			"summary": "Taught MCAT review classes",
+			"highlights": [
+				"I recieved the highest ratings in the region from the students I taught during my time with the company"
+			]
+		},
+		{
+			"company": "University of Arizona Strategic Alternative Learning Techniques",
+			"position": "Tutor",
+			"website": "https://www.salt.arizona.edu/",
+			"startDate": "2013-08-01",
+			"endDate": "2015-05-30",
+			"summary": "Tutored college level mathematics, physics, biology, and chemistry to students with learning disabilities"
+		},
+		{
+			"company": "University of Arizona Campus Health",
+			"position": "Cooking on Campus Coordinator",
+			"website": "https://nutrition.arizona.edu/cookingoncampus",
+			"startDate": "2013-08-01",
+			"endDate": "2015-05-30",
+			"summary": "Worked with campus nutritionists to develop easy, healthy recipes and conduct cooking classes for undergraduate students to teach the fundamental of cooking and nutrition"
+		}
+	],
+	"volunteer": [{
+		"organization": "University of Miami Miller School of Medicine Department of Community Service",
+		"position": "Volunteer",
+		"website": "https://umdocs.mededu.miami.edu/",
+		"startDate": "2015-07-01",
+		"endDate": "2019-05-30",
+		"summary": "DOCS holds 10 annual free health fairs in various communities throughout Miami-Dade, Monroe, and Broward counties, with an additional 4 free clinics operating for these medically underserved populations. We screen for the most prevalent diseases in our community including; hypertension, diabetes, dyslipidemia, vision loss, obesity, and depression, as well as colon, breast, cervical, and skin cancers. Using a referral system of free clinics, we also act as a portal for entry to care for those patients identified to be at risk",
+		"highlights": [
+			"Led the team who founded the South Kendall Health Fair in 2016-17",
+			"Served as the longitudinal access coordinator from 2017-18, connecting high risk patients with free/low cost follow-up care",
+			"Participated in 16 health fairs between 2015-19"
+		]
+	}
+	],
+	"publications": [{
+			"name": "Aorto-Gastric Fistula.",
+			"publisher": "ACR Case in Point",
+			"releaseDate": "2020-09-10",
+			"website": "https://cortex.acr.org/cip/pages",
+			"summary": "ACR Case in Point Series"
+		},
+		{
+			"name": "Intractable Hematuria due to Giant Prostatic Hyperplasia Effectively Treated with Prostatic Artery Embolization",
+			"publisher": "Asian Journal of Urology",
+			"releaseDate": "2020-07-01",
+			"website": "https://pubmed.ncbi.nlm.nih.gov/32742932/",
+			"summary": "Giant prostatic hyperplasia successfully treated with prostatic artery embolization"
+		},
+		{
+			"name": "Racial and gender disparities in violent trauma: Results from the NEMSIS database ",
+			"publisher": "American Journal of Emergency Medicine",
+			"releaseDate": "2019-05-13",
+			"website": "https://pubmed.ncbi.nlm.nih.gov/29724579/",
+			"summary": "Study evaluating the common barriers to EMS care reported via the national NEMSIS database among various racial and gender groups"
+		},
+		{
+			"name": "Clinical predictors of arterial extravasation, rebleeding and mortality following angiographic interventions in gastrointestinal bleeding",
+			"publisher": "Journal of Gastrointestinal and Liver Diseases",
+			"releaseDate": "2018-08-09",
+			"website": "https://pubmed.ncbi.nlm.nih.gov/30240464/",
+			"summary": "This paper identified important clinical predictors of arterial extravasation, rebleed and 30-day mortality in GI bleedings, which will assist in patient selection and help to improve the overall angiographic management of GI bleeding"
+		},
+		{
+			"name": "Hematopoietically Active Adrenal Myelolipoma Mimicking Breast Cancer Metastasis",
+			"publisher": "Clinical Nuclear Medicine",
+			"releaseDate": "2018-09-13",
+			"website": "https://pubmed.ncbi.nlm.nih.gov/29877880/",
+			"summary": "Case report of colision tumor within the adrenal in patient with invasive ductal carcinoma of the breast"
+		},
+		{
+
+			"name": "HEART Score and Stress Test Emergency Department Bayesian Decision Scheme: Results from the Acute Care Diagnostic Collaboration",
+			"publisher": "Journal of Emergency Medicine",
+			"releaseDate": "2018-01-04",
+			"website": "https://pubmed.ncbi.nlm.nih.gov/29428052/",
+			"summary": "This Bayesian analysis demonstrated slight superiority of stress ECHO over ETT in low- and intermediate-risk patients in ruling out MACE"
+		},
+		{
+			"name": "The current emergency medicine residency curriculum: Missing psychiatry",
+			"publisher": "American Journal of Emergency Medicine",
+			"releaseDate": "2017-03-20",
+			"website": "https://pubmed.ncbi.nlm.nih.gov/28596031/",
+			"summary": "Editorial on the current emergency medicine residency curriculum"
+		},
+		{
+			"name": "Fentanyl laced heroin and its contribution to a spike in heroin overdose in Miami-Dade County",
+			"publisher": "American Journal of Emergency Medicine",
+			"releaseDate": "2017-07-19",
+			"website": "https://pubmed.ncbi.nlm.nih.gov/28268113/",
+			"summary": "Retrospective study correlating increase in heroin overdose in Miami to likely fentanyl contamination of the drug supply"
+
+		},
+		{
+			"name": "We Can Treat Patients and Medical Students with Culinary Medicine",
+			"publisher": "Doximity Op-Med",
+			"releaseDate": "2018-06-10",
+			"website": "https://opmed.doximity.com/articles/we-can-treat-patients-and-medical-students-with-culinary-medicine?_csrf_attempted=yes",
+			"summary": "Opinion piece on the importance of nutrition and basic kitchen skills for medical students"
+		},
+		{
+			"name": "My Patient Mr. J - The Front Lines of America's Heroin Crisis",
+			"publisher": "ACEP DOC Blog",
+			"releaseDate": "2017-01-01",
+			"website": "https://www.emergencyphysicians.org/articles/categories/topics/doc-blog",
+			"summary": "Editorial on the human impact of the opioid crisis" 
+		}
+	],
+	"skills": [{
+			"name": "Diagnostic Radiology",
+			"level": "Expert",
+			"keywords": [
+				"Imaging",
+				"Computed Tomography",
+				"Procedures"
+			]
+		},
+		{
+			"name": "Teaching",
+			"level": "Novice",
+			"keywords": [
+				"Education",
+				"Resident",
+				"Medical student"
+			]
+		},
+		{
+			"name": "Research",
+			"level": "Expert",
+			"keywords": [
+				"IRB",
+				"Study Design",
+				"Grant Writing"
+			]
+		},
+		{
+			"name": "Entrepreneurship",
+			"level": "expert",
+			"keywords": [ 
+				"Market Research", 
+				"Business Development",
+				"Management"
+			]
+		},
+		{
+			"name": "Programming",
+			"level": "Novice",
+			"keywords": [
+				"HTML",
+				"CSS",
+				"Javascript"
+			]
+		}
+	],
+	"languages": [{
+			"language": "English, Spanish",
+			"fluency": "Native speaker"
+		}
+	],
+	"projects": [{ "name": "nothing"
+		     }
+		     ],
+	"interests": [{
+			"name": "Homebrewing",
+			"keywords": [
+				"Microbiology",
+				"Chemistry"
+			]
+		},
+		{
+			"name": "Cycling",
+			"keywords": [
+				"Exercise",
+				"Expensive"
+			]
+		},
+		{
+			"name": "3D Printing",
+			"keywords": [
+				"Research",
+				"CAD"
+			]
+		},
+		{
+			"name": "Graphic Design",
+			"keywords": [
+				"Medical Illustration",
+				"Adobe Photoshop"
+			]
+		},
+		{
+			"name": "Cooking", 
+			"keywords": [ 
+			      	"Grilling",
+			      	"Baking"
+			]
+		},
+	        {
+			"name": "Medical Student & Resident Education", 
+			"keywords": [ 
+				"Teaching",
+				"Public speaking"
+			]
+		},
+		{
+		      "name": "Scuba Diving",
+		      "keywords": [
+		      		"Shore Diving",
+		      		"PADI"
+			]
+		 }],
+		      "meta": {"theme": "elegant"
+			      }
+}
