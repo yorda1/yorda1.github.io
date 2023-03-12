@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Yordanos Mathewos</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link href="https://fonts.googleapis.com/css?family=Merriweather|Montserrat|Sacramento" rel="stylesheet">
+  <link rel="icon" href="favicon.ico">
+</head>
+
+<body>
+  <div class="top-container">
+    <img class="top-cloud" src="images/cloud.png" alt="cloud">
+    <div class="title-text">
+      <h1>I'm Yordanos.</h1>
+      <h2> <span class="pro">Private Duty Nurse 🍏 Patient Care Specialist<br>
+      <em> NY State Registered LPN</em> <br>
+      <em>New York City </em><strong> &nbsp;</strong></span></h2>
+    </div>
+    <img class="bottom-cloud" src="images/cloud.png" alt="cloud">
+    <img class="mountain" src="images/mountain.png" alt="mountain-img">
+  </div>
+
+  <div class="middle-container">
+    <div class="profile">
+      <img src="images/yordanos.png" alt="yordanos-profile-img">
+		<h2>Hello. <br>I am a New York Based
+      <br>Private Duty Nurse.</h2>
+<p class="intro">I Manage, Coordinate and Deliver </p>
+      <p class="intro">Competent Care and World Class Service </p>
+      <p class="intro">I do it all with Precision, Love ❤️  and Compassion </p>
+    </div>
+    <hr>
+	
+	  
+    <div class="skills">
+
+      <h2>Yordanos Mathewos, LPN&nbsp;</h2>
+      <div class="skill-row">
+        <img class="code-img" src="images/hospital.png" alt="code-img">
+		
+
+        <h3>My focuses on compassion</h3>
+        <p>My focuses on compassion and meeting the needs of clients in a variety of settings such as Home Health, Hospice, Residential and Private Duty. I have passion for outstanding,  patient-centered&nbsp; culturally&nbsp; appropriate&nbsp; patient care, across the life-span.&nbsp; This is coupled with a desire to help them live their best life.&nbsp;</p>
+        <p>&nbsp;</p>
+      </div>
+
+		<hr>
+
+<div class="contact-me">
+      <h2>My Resume</h2>
+      <h3>View or Download PDF</h3>
+   <p class="contact-message"></p> 
+           <a class="btn" href="https://pub.lucidpress.com/mathewos#_0">RESUME</a>
+  
+    </div>
+	 
+        
+      <div class="skill-row">
+        <img class="chilli-img" src="images/chillies.png" alt="chillies-img">
+
+        <h3>&nbsp;Private Duty Nurse | Travel, Staff&nbsp; Agency</h3>
+        <p>Proof of current license as an Licensed Practical Nurse in good standing. Current Cardiopulmonary resuscitation certification. Knowledge of individual service plans, including understanding of client rights and health needs.&nbsp;</p>
+
+      </div>
+
+    </div> 
+    <hr>
+    <div class="contact-me">
+		<!--
+      <h2>Get In Touch</h2>
+      <h3>Lorem ipsum dolor sit amet, consectetur</h3>
+      <p class="contact-message">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+  -->
+      <a class="btn" href="mailto:yordanos1@yahoo.com">EMAIL ME</a>
+		
+    </div>
+  
+    </div>
+
+  <div class="bottom-container">
+	  <!--
+    <a class="footer-link" href="https://www.linkedin.com/in/yordanos/">LinkedIn</a>          
+    <a class="footer-link" href="https://twitter.com/yordanos_dev">Twitter</a>
+    <a class="footer-link" href="https://www.unicornhire.me/">Website</a>
+	  -->
+    <p class="copyright">© 2023 Yordanos Mathewos </p>
+  </div>
+</body>
+
+</html>
